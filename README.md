@@ -16,10 +16,10 @@ Tujuan utama penelitian ini adalah:
 
 ## 📂 Dataset  
 - **Nama dataset**: `data_stress`  
-- **Target variabel**: `Which type of stress do you primarily experience?`  
+- **Target variabel**: `Usia, jenis kelamin, pendidikan, dan pendapatan`  
 - **Jumlah faktor potensial**: 27 (tidak termasuk target variabel)  
 
-> 🔗 Dataset link: *(tambahkan link dataset di sini, misalnya Google Drive atau Kaggle)*  
+> 🔗 Dataset link: (https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets)
 
 ---
 
