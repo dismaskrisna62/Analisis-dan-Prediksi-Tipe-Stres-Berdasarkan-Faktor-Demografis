@@ -1,0 +1,2 @@
+# Analisis-dan-Prediksi-Tipe-Stres-Berdasarkan-Faktor-Demografis
+Repository ini berisi Capstone Project yang saya buat dalam rangka mengikuti program Student Developer Initiative dari HACKTIV8 dan IBM SkillsBuild, dengan topik "Data Classification and Summarization".  Project ini berfokus pada analisis dataset data_stress untuk memahami faktor-faktor yang berhubungan dengan jenis stres yang dialami individu.
